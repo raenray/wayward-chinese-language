@@ -14,10 +14,10 @@
 ## 汉化范围
 
 官方内容
-+ 游戏本体 <更新至 2.13.5-beta 版本>
-+ 内置 mod [Starter Quest] <更新至 2.13.5-beta 版本>
++ 游戏本体 <更新至 2.15.3-beta 版本>
++ 内置 mod [Starter Quest] <更新至 2.15.3-beta 版本>
 
-创意工坊中的部分 mod <均更新至 2.13.5-beta 版本>
+创意工坊中的部分 mod <均更新至 2.15.3-beta 版本>
 + [debug tools], [balancing tools], [tars], [oddmagicks]
 
 ## 使用
@@ -53,9 +53,3 @@
 某些项由于各种原因暂未翻译，或在中文后以备注形式保留了部分原文。具体列表请在 CONTRIBUTING.md / [GITHUB:wayward-chinese-language/CONTRIBUTING.md](https://github.com/PlotNarrater/wayward-chinese-language/blob/master/CONTRIBUTING.md) 中查看
 
 此部分内容如果能提供令人信服的改良或见解，可以在 Steam 创意工坊下讨论，或在 Github 上参与编写，以帮助优化翻译效果
-
-## 其他
-
-本体文本已完成翻译
-
-本体文本 dictionaries.message 部分未核对
